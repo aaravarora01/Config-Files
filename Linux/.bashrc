@@ -43,15 +43,5 @@ PS1='\e[37;1m\u@\e[35m\W\e[0m\$ ' # this will change your prompt format
 alias ll='ls -alF'
 alias python='python3'
 alias pip='pip3'
-
-# CS61B
-export CLASSPATH=".:/usr/lib/jvm/oracle-jdk11/lib:/c/Users/Akul/Desktop/cs61b-software/lib/*"
-
-# Docker
-export DOCKER_HOST=tcp://localhost:2375
-
-# GUI Output
-export DISPLAY=:0
-
-# ROS
-source /opt/ros/melodic/setup.bash
+alias aarav='echo is the best'
+alias whoareyou='echo i am your father'
